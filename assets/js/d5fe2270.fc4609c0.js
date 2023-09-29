@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkr_na_11_y=self.webpackChunkr_na_11_y||[]).push([[257],{1720:e=>{e.exports=JSON.parse('{"permalink":"/RNa11y/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

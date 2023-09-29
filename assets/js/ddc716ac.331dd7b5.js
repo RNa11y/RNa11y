@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkr_na_11_y=self.webpackChunkr_na_11_y||[]).push([[9744],{7033:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/RNa11y/blog/tags/hola","allTagsPath":"/RNa11y/blog/tags","count":1}')}}]);

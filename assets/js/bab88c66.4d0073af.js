@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkr_na_11_y=self.webpackChunkr_na_11_y||[]).push([[8923],{372:a=>{a.exports=JSON.parse('{"permalink":"/RNa11y/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
